@@ -12,7 +12,7 @@
   
 ## 📝 Table of Contents
 - [About](#about)
-- [Programming Styles and Techniques](#techniques)
+- [Programming Styles and Techniques](#programming_styles_and_techniques)
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
 - [Authors](#authors)
@@ -21,7 +21,8 @@
 ## 🧐 About <a name = "about"></a>
 This repository showcases two projects that demonstrate advanced programming techniques in C++ and multithreading. The first project, Multi-Threaded-Stack, utilizes multithreading processes to add items to a stack in a linear manner. By creating a mutex, the code is locked and unlocked to prevent overwriting when multiple threads add to the stack. The second project, Hashing Between Two Pipes, demonstrates the forking of a process and communication of hashing outputs between two pipes. This was developed during an Operating Systems lecture and showcases the use of pipes in inter-process communication. Both projects highlight the versatility and complexity of C++ programming and the use of advanced techniques in solving programming challenges.
 
-## 💻 Programming Styles and Techniques <a name = "#techniques"></a>
+## 💻 Programming Styles and Techniques <a name = "about"></a>
+## 💻 Programming Styles and Techniques <a name = "#programming_styles_and_techniques"></a>
 The combined repository encompasses advanced coding subjects and programming methods, showcasing the following skills:
 
 Multithreading: The Multi-Threaded Stack project demonstrates the mastery of managing concurrent threads and synchronization using mutexes, ensuring thread safety and avoiding race conditions.
