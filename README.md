@@ -36,7 +36,7 @@ Installing GCC on linux
 ```
 sudo apt update
 
-sudo apt GCC
+sudo apt install GCC
 ```
 
 ### Prerequisites
