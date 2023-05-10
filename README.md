@@ -13,7 +13,7 @@
 ## 📝 Table of Contents
 - [About](#about)
 - [Programming Styles and Techniques](#techniques)
-- [Getting Started](#techniques)
+- [Getting Started](#getting_started)
 - [Built Using](#built_using)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
