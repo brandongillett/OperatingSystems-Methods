@@ -49,10 +49,6 @@ After downloading GCC and installing prerequisites you can now run the programs 
 
 ./cpsc351Program
 ```
-### Grammar 
-
-![image](https://user-images.githubusercontent.com/82180479/208269680-f2803b52-c9e4-400a-be38-dedb66303e0c.png)
-
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [C++](https://cplusplus.com/) - Language
