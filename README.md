@@ -6,7 +6,7 @@
 
 ---
 <h3 align="center">
-  This repository demonstrates methods of Multi-Threaded Stack and Hashing Between Two Pipes projects. Within this repository, you will find two distinct projects that showcase advanced coding subjects and programming methods. Let's delve into each project and explore the skills and techniques employed.
+  Combined Repository of Multi-Threaded Stack and Hashing Between Two Pipes projects. Within this repository, you will find two distinct projects that showcase advanced coding subjects and programming methods. Let's delve into each project and explore the skills and techniques employed.
   </p>
   </h3>
   
